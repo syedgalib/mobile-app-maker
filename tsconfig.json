@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "outDir": "./assets/js",
+      "baseUrl": "./",
+      "paths": {
+        "ASSETS": ["src/scc"],
+        "SCSS": ["src/scss"],
+        "APP": ["src/app"],
+      },
+      "noImplicitAny": true,
+      "module": "es6",
+      "target": "es5",
+      "jsx": "react",
+      "allowJs": true,
+      "moduleResolution": "node",
+      "allowSyntheticDefaultImports": true,
+    }
+  }

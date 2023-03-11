@@ -1,0 +1,17 @@
+{
+    "name": "syedgalibahmed/mobile-app-maker",
+    "description": "A simple mobile app maker plugin",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MobileAppMaker\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Syed Galib Ahmed",
+            "email": "syedgalibahmed@gmail.com"
+        }
+    ],
+    "require": {}
+}
