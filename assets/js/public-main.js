@@ -62,6 +62,7 @@ var __webpack_exports__ = {};
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var SCSS_public_scss__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! SCSS/public.scss */ "./src/scss/public.scss");
 
+// import './../app/TestApp/index'
 
 }();
 /******/ })()
